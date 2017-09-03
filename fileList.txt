@@ -1,0 +1,2 @@
+/afs/cern.ch/work/s/svostini/TDCPixDecoder/data/s1-4_plane_0_0000024450.00000.bpkt32
+/afs/cern.ch/work/s/svostini/TDCPixDecoder/data/s4-2_plane_1_0000024450.00000.bpkt32
