@@ -1,0 +1,16 @@
+/eos/cms/store/group/phys_jetmet/svostini/CERNGTK_Run_0000024485/s22-3_plane_0_0000024485.00000.bpkt32
+/eos/cms/store/group/phys_jetmet/svostini/plane1_TDCPix/CERNGTK_Run_0000024485/s19-3_plane_1_0000024485.00000.bpkt32
+/eos/cms/store/group/phys_jetmet/svostini/CERNGTK_Run_0000024485/s22-3_plane_0_0000024485.00001.bpkt32
+/eos/cms/store/group/phys_jetmet/svostini/plane1_TDCPix/CERNGTK_Run_0000024485/s19-3_plane_1_0000024485.00001.bpkt32
+/eos/cms/store/group/phys_jetmet/svostini/CERNGTK_Run_0000024485/s22-3_plane_0_0000024485.00002.bpkt32
+/eos/cms/store/group/phys_jetmet/svostini/plane1_TDCPix/CERNGTK_Run_0000024485/s19-3_plane_1_0000024485.00002.bpkt32
+/eos/cms/store/group/phys_jetmet/svostini/CERNGTK_Run_0000024485/s22-3_plane_0_0000024485.00003.bpkt32
+/eos/cms/store/group/phys_jetmet/svostini/plane1_TDCPix/CERNGTK_Run_0000024485/s19-3_plane_1_0000024485.00003.bpkt32
+/eos/cms/store/group/phys_jetmet/svostini/CERNGTK_Run_0000024485/s22-3_plane_0_0000024485.00004.bpkt32 
+/eos/cms/store/group/phys_jetmet/svostini/plane1_TDCPix/CERNGTK_Run_0000024485/s19-3_plane_1_0000024485.00004.bpkt32
+/eos/cms/store/group/phys_jetmet/svostini/CERNGTK_Run_0000024485/s22-3_plane_0_0000024485.00005.bpkt32 
+/eos/cms/store/group/phys_jetmet/svostini/plane1_TDCPix/CERNGTK_Run_0000024485/s19-3_plane_1_0000024485.00005.bpkt32
+/eos/cms/store/group/phys_jetmet/svostini/CERNGTK_Run_0000024485/s22-3_plane_0_0000024485.00006.bpkt32
+/eos/cms/store/group/phys_jetmet/svostini/plane1_TDCPix/CERNGTK_Run_0000024485/s19-3_plane_1_0000024485.00006.bpkt32
+/eos/cms/store/group/phys_jetmet/svostini/CERNGTK_Run_0000024485/s22-3_plane_0_0000024485.00007.bpkt32
+/eos/cms/store/group/phys_jetmet/svostini/plane1_TDCPix/CERNGTK_Run_0000024485/s19-3_plane_1_0000024485.00007.bpkt32
